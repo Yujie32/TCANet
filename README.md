@@ -134,7 +134,7 @@ Note: These ResNet backbones differ from the regular ResNets. To manage complexi
 
 ## Compration 
 
-Qualitative comparison of component effects on $COCO-20^i$ dataset in 1-shot scenario
+Qualitative comparison of component effects on $PASCAL-5^i$ and $COCO-20^i$ dataset in 1-shot scenario
 
 <p align="middle">
     <img src="data/assets/exp.png">
