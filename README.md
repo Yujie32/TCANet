@@ -1,6 +1,6 @@
 # Target-agnostic Common Attributes Learning for Few-shot Semantic Segmentation
 This is the implementation of the paper "Target-agnostic Common Attributes Learning for Few-shot Semantic
-Segmentation" by Yadang Chen, Wenbo Chen, Yuhui Zheng, Zhi-Xin Yang, and Enhua Wu.
+Segmentation" by Yadang Chen, Yujie Zhang, Yuhui Zheng, Zhi-Xin Yang, and Enhua Wu.
 
 <p align="middle">
     <img src="data/assets/overview_git.png">
